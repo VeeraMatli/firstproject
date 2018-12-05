@@ -1,0 +1,9 @@
+com\first\example\dao\UserMapper.class
+com\first\example\controller\RegisterController.class
+com\first\example\model\UserBean.class
+com\first\example\dao\UserDaoImpl.class
+com\first\example\service\UserService.class
+com\first\example\dao\UserDao.class
+com\first\example\model\LoginBean.class
+com\first\example\service\UserServiceImpl.class
+com\first\example\controller\LoginController.class
